@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "fa5598bfeda6edc049177a1c5ecbc020ea412707deb8817e6c5914e4132f87a1"
+build_start_time: [1669422278, 303668022]
+build_end_time: [1669422283, 269422054]
+inputs:
+  "/Users/hyeono/Desktop/flutter_projects/naver_crawling/macos/Flutter/GeneratedPluginRegistrant.swift": [1669422262, 867366]
+  "/Users/hyeono/Desktop/flutter_projects/naver_crawling/macos/Runner/AppDelegate.swift": [1643843490, 0]
+  "/Users/hyeono/Desktop/flutter_projects/naver_crawling/macos/Runner/MainFlutterWindow.swift": [1643843490, 0]
